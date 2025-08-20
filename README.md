@@ -28,14 +28,14 @@ Experiments are performed for different stamp image processing tasks
 
 <details>
 <summary><strong>stamp removal</strong> (click to expand) </summary>
-
-<img src = "https://github.com/zwwjava/HS-Restormer/images/stamp_removal.png"> 
+  
+![image](https://github.com/zwwjava/HS-Restormer/blob/main/image/stamp_removal.png)
 </details>
 
 <details>
 <summary><strong>stamp removal</strong> (click to expand) </summary>
 
-<img src = "https://github.com/zwwjava/HS-Restormer/images/stamp_extraction.png"> 
+![image](https://github.com/zwwjava/HS-Restormer/blob/main/image/stamp_extraction.png)
 </details>
 
 
