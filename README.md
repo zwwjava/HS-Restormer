@@ -33,7 +33,7 @@ Experiments are performed for different stamp image processing tasks
 </details>
 
 <details>
-<summary><strong>stamp removal</strong> (click to expand) </summary>
+<summary><strong>stamp extraction</strong> (click to expand) </summary>
 
 ![image](https://github.com/zwwjava/HS-Restormer/blob/main/image/stamp_extraction.png)
 </details>
